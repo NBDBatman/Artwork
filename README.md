@@ -1,9 +1,10 @@
 # Artwork
+
 Artwork for all things Arkanis: Logos, Icons, Banners, GIFs &amp; more.
 
 ## Licensing and Usage
 
-All content in this repository is **not open source** and is **fully copyrighted** by Merlin Brandes (FatalMerlin).
+All content in this repository is **not open source** and is **fully copyrighted** by Merlin Brandes (FatalMerlin) and Daniel Dolejška (TheKronnY).
 
 You are welcome to view and use the artwork for **personal, non-commercial purposes**, such as wallpapers or inspiration.
 
@@ -12,7 +13,6 @@ However, **you may not reuse, modify, or redistribute any content publicly or co
 By contributing to this repository, you agree to transfer all rights of your contribution to the copyright holder.
 
 For inquiries, please contact: **merlin@arkanis.cc**
-
 
 ## Note
 
